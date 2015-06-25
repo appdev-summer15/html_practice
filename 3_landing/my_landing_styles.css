@@ -1,0 +1,9 @@
+/* This is here to give everything a red border, just to make it easier to see while developing. */
+* {
+  box-sizing: border-box;
+
+  border: thin red solid;
+}
+/* You can turn it off if you want. (delete or comment it out) */
+
+/* Write your rules below */
