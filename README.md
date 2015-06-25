@@ -1,5 +1,7 @@
 # Week 1 Homework
 
+### [A video tutorial for this homework is here.](http://appdev-summer15.github.io/videos/week_1_hw_instructions.html)
+
 ## Part 0: Getting Started
 
 The first step before doing any work will always be to **fork** and then **clone** a repository.
