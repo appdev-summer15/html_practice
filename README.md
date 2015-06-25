@@ -1,6 +1,6 @@
 # Week 1 Homework
 
-### [A video tutorial for this homework is here.](http://appdev-summer15.github.io/videos/week_1_hw_instructions.html). Open this link in a new tab.
+### [A video tutorial for this homework is here.](http://appdev-summer15.github.io/videos/week_1_hw_instructions.html) Open this link in a new tab.
 
 ## Part 0: Getting Started
 
