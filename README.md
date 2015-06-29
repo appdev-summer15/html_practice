@@ -130,7 +130,7 @@ Can you see how you could use a `<table>` to achieve horizontal positioning? In 
 
 # Part 2: Chessboard
 
- - Open `2_chessboard/chessboard_styles.css` in Sublime.
+ - Open `2_chessboard/my_chessboard_styles.css` in Sublime.
  - Open `2_chessboard/chessboard_start.html` in Sublime and Chrome.
  - Open `2_chessboard/solution/chessboard_target.html` in Chrome.
  - Write CSS rules in `2_chessboard/chessboard_styles.css` until your document matches the target. I've added some comments in that file with links to references that might be useful.
